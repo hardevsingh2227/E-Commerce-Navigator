@@ -1,0 +1,2 @@
+# E-Commerce-Navigator
+Once customer entered with his own username and password, at that time automatically shopping cart will be created, once user select an item it will add to cart. In case user thinks the selected item is not useful for me, then deleted that item from shopping cart. The selected items are stored at cart with specific users with his allotted carts, after some days he bought those items then automatically deleted from the cart. It is a website which helps customers to buy products as a few hours, a few days, or a week.
